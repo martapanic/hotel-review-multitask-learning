@@ -1,4 +1,4 @@
-# Deep-Learning-Project : Hotel-review-multitask
+# hotel-review-multitask-learning
 Multitask Bi-LSTM deep learning model for hotel review classification and regression
 # 🏨 Hotel Review – Multi-Task Deep Learning Model
 
